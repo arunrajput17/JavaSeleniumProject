@@ -1,0 +1,29 @@
+WARNING:root:This is warning message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+DEBUG:root:This is debug message
+INFO:root:This is info message
+WARNING:root:This is warning message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+
+2020-06-18 09:30:40,894: DEBUG: This is debug message
+2020-06-18 09:30:40,894: INFO: This is info message
+2020-06-18 09:30:40,894: WARNING: This is warning message
+2020-06-18 09:30:40,894: ERROR: This is error message
+2020-06-18 09:30:40,894: CRITICAL: This is critical message
+06/18/2020 09:32:AM: DEBUG: This is debug message
+06/18/2020 09:32:AM: INFO: This is info message
+06/18/2020 09:32:AM: WARNING: This is warning message
+06/18/2020 09:32:AM: ERROR: This is error message
+06/18/2020 09:32:AM: CRITICAL: This is critical message
+06/18/2020 09:37:AM: DEBUG: This is debug message
+06/18/2020 09:37:AM: INFO: This is info message
+06/18/2020 09:37:AM: WARNING: This is warning message
+06/18/2020 09:37:AM: ERROR: This is error message
+06/18/2020 09:37:AM: CRITICAL: This is critical message
+06/22/2020 02:42:AM: DEBUG: This is debug message
+06/22/2020 02:42:AM: INFO: This is info message
+06/22/2020 02:42:AM: WARNING: This is warning message
+06/22/2020 02:42:AM: ERROR: This is error message
+06/22/2020 02:42:AM: CRITICAL: This is critical message

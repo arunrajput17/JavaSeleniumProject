@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="All Test Suite">
+
+	<test name="Annotations Demo">
+	
+		<classes>
+
+			<class name="S55_TestNG.A3_TC1TestNGAnnotations">
+				<methods>
+					<include name="test1"></include>
+					<include name="test2"></include>
+				</methods>
+			</class>
+
+			<class name="S55_TestNG.A3_TC2TestNGAnnotations">
+				<methods>
+					<include name="test3"></include>
+					<include name="test4"></include>
+				</methods>
+			</class>
+
+		</classes>
+		
+	</test> <!-- Test -->
+	
+</suite> <!-- Suite -->

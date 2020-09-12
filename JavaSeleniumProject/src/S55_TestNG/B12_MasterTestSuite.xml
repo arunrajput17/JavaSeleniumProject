@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MasterTestSuite">
+
+<suite-files>
+
+<suite-file path="D:\Day Shift\Selenium Practice\JEx\First\JavaSeleniumProject\src\S55_TestNG\testngA2.xml"></suite-file>
+<suite-file path="D:\Day Shift\Selenium Practice\JEx\First\JavaSeleniumProject\src\S55_TestNG\testngA3.xml"></suite-file>
+<suite-file path="D:\Day Shift\Selenium Practice\JEx\First\JavaSeleniumProject\src\S55_TestNG\testngA6.xml"></suite-file>
+<suite-file path="D:\Day Shift\Selenium Practice\JEx\First\JavaSeleniumProject\src\S55_TestNG\testngA8.xml"></suite-file>
+
+</suite-files>
+
+</suite> <!-- Suite -->

@@ -1,0 +1,44 @@
+09/07 10:35:34 INFO                    Log4jExample  - Browser opened
+09/07 10:35:42 INFO                    Log4jExample  - Clicked on Register
+09/07 10:35:45 INFO                    Log4jExample  - Entering contact information
+09/07 10:35:45 INFO                    Log4jExample  - Entering Mailing Information
+09/07 10:35:46 INFO                    Log4jExample  - Selecting Country
+09/07 10:35:46 INFO                    Log4jExample  - Entering User Information
+09/07 10:35:46 INFO                    Log4jExample  - Clicked on Submit button
+09/07 10:35:48 INFO                    Log4jExample  - Validation started
+09/07 10:35:48 INFO                    Log4jExample  - Validation DONE
+09/07 10:35:48 INFO                    Log4jExample  - Exit Test
+09/07 10:35:49 INFO                    Log4jExample  - Browser quit
+09/07 10:36:33 INFO                    Log4jExample  - Browser opened
+09/07 10:36:40 INFO                    Log4jExample  - Clicked on Register
+09/07 10:36:42 INFO                    Log4jExample  - Entering contact information
+09/07 10:36:43 INFO                    Log4jExample  - Entering Mailing Information
+09/07 10:36:43 INFO                    Log4jExample  - Selecting Country
+09/07 10:36:43 INFO                    Log4jExample  - Entering User Information
+09/07 10:36:44 INFO                    Log4jExample  - Clicked on Submit button
+09/07 10:36:47 INFO                    Log4jExample  - Validation started
+09/07 10:36:47 INFO                    Log4jExample  - Validation DONE
+09/07 10:36:47 INFO                    Log4jExample  - Exit Test
+09/07 10:36:48 INFO                    Log4jExample  - Browser quit
+09/07 10:38:16 INFO                    Log4jExample  - Browser opened
+09/07 10:38:23 INFO                    Log4jExample  - Clicked on Register
+09/07 10:38:25 INFO                    Log4jExample  - Entering contact information
+09/07 10:38:27 INFO                    Log4jExample  - Entering Mailing Information
+09/07 10:38:28 INFO                    Log4jExample  - Selecting Country
+09/07 10:38:28 INFO                    Log4jExample  - Entering User Information
+09/07 10:38:29 INFO                    Log4jExample  - Clicked on Submit button
+09/07 10:38:30 INFO                    Log4jExample  - Validation started
+09/07 10:38:30 INFO                    Log4jExample  - Validation DONE
+09/07 10:38:30 INFO                    Log4jExample  - Exit Test
+09/07 10:38:32 INFO                    Log4jExample  - Browser quit
+09/07 10:50:09 INFO                    Log4jExample  - Browser opened
+09/07 10:50:15 INFO                    Log4jExample  - Clicked on Register
+09/07 10:50:17 INFO                    Log4jExample  - Entering contact information
+09/07 10:50:18 INFO                    Log4jExample  - Entering Mailing Information
+09/07 10:50:19 INFO                    Log4jExample  - Selecting Country
+09/07 10:50:19 INFO                    Log4jExample  - Entering User Information
+09/07 10:50:19 INFO                    Log4jExample  - Clicked on Submit button
+09/07 10:50:21 INFO                    Log4jExample  - Validation started
+09/07 10:50:21 INFO                    Log4jExample  - Validation DONE
+09/07 10:50:21 INFO                    Log4jExample  - Exit Test
+09/07 10:50:22 INFO                    Log4jExample  - Browser quit

@@ -1,0 +1,11 @@
+2020-09-07 10:51:03,266 [main] INFO Log4jExample - Browser opened
+2020-09-07 10:51:13,136 [main] INFO Log4jExample - Clicked on Register
+2020-09-07 10:51:14,615 [main] INFO Log4jExample - Entering contact information
+2020-09-07 10:51:15,232 [main] INFO Log4jExample - Entering Mailing Information
+2020-09-07 10:51:15,920 [main] INFO Log4jExample - Selecting Country
+2020-09-07 10:51:16,166 [main] INFO Log4jExample - Entering User Information
+2020-09-07 10:51:16,654 [main] INFO Log4jExample - Clicked on Submit button
+2020-09-07 10:51:18,127 [main] INFO Log4jExample - Validation started
+2020-09-07 10:51:18,154 [main] INFO Log4jExample - Validation DONE
+2020-09-07 10:51:18,155 [main] INFO Log4jExample - Exit Test
+2020-09-07 10:51:20,106 [main] INFO Log4jExample - Browser quit

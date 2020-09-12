@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="GroupingTest">
+  	
+  	<!-- This tag will be used to run test cases based on groups defined -->
+  	<groups>
+  		<run>
+  			<exclude name="sanity"></exclude>	<!-- we can also use exclude -->
+  			<!-- <include name="regression"></include> -->
+  		</run> 	
+  	</groups>
+  
+    <classes>
+    
+      <class name="S55_TestNG.A6_TC1TestNGGrouping"/>
+      
+    </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
