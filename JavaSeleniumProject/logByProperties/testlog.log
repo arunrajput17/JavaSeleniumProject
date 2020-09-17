@@ -9,3 +9,25 @@
 2020-09-07 10:51:18,154 - Log4jExample -INFO - Validation DONE
 2020-09-07 10:51:18,155 - Log4jExample -INFO - Exit Test
 2020-09-07 10:51:20,106 - Log4jExample -INFO - Browser quit
+2020-09-17 01:22:22,632 - Log4jExample -INFO - Browser opened
+2020-09-17 01:22:28,664 - Log4jExample -INFO - Clicked on Register
+2020-09-17 01:22:32,463 - Log4jExample -INFO - Entering contact information
+2020-09-17 01:22:33,299 - Log4jExample -INFO - Entering Mailing Information
+2020-09-17 01:22:34,043 - Log4jExample -INFO - Selecting Country
+2020-09-17 01:22:34,640 - Log4jExample -INFO - Entering User Information
+2020-09-17 01:22:35,060 - Log4jExample -INFO - Clicked on Submit button
+2020-09-17 01:22:40,655 - Log4jExample -INFO - Validation started
+2020-09-17 01:22:40,690 - Log4jExample -INFO - Validation DONE
+2020-09-17 01:22:40,690 - Log4jExample -INFO - Exit Test
+2020-09-17 01:22:41,993 - Log4jExample -INFO - Browser quit
+2020-09-17 01:24:13,109 - Log4jExample -INFO - Browser opened
+2020-09-17 01:24:24,021 - Log4jExample -INFO - Clicked on Register
+2020-09-17 01:24:26,427 - Log4jExample -INFO - Entering contact information
+2020-09-17 01:24:26,937 - Log4jExample -INFO - Entering Mailing Information
+2020-09-17 01:24:27,372 - Log4jExample -INFO - Selecting Country
+2020-09-17 01:24:27,552 - Log4jExample -INFO - Entering User Information
+2020-09-17 01:24:27,903 - Log4jExample -INFO - Clicked on Submit button
+2020-09-17 01:24:33,386 - Log4jExample -INFO - Validation started
+2020-09-17 01:24:33,413 - Log4jExample -INFO - Validation DONE
+2020-09-17 01:24:33,414 - Log4jExample -INFO - Exit Test
+2020-09-17 01:24:34,215 - Log4jExample -INFO - Browser quit
