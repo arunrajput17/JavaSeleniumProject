@@ -54,48 +54,188 @@ http://demo.guru99.com/test/web-table-element.php#
 
 
 Module sequence:
-1. Multi browser
-2. BasicCommandsBasic
-3. Navigation commands
-4. Conditional commands
-5. Implicit wait
-	is applicable for all the elements on the page. 
-	# This need to be specified one time at the begining of the code.
-6. Explicit wait : It is based on the condition not depends on the time. It is based on particular element.
-7. Input box
-8. Radio buttons and check boxes
-9. Dropdown list
-10. Links
-11. Alerts
-12. Handle Frames / iFrames
-13. Browser windows
-	# driver.current_window_handle 
-	# driver.window_handles - it gives handle value of all the woindows
-14. HTML / Web Tables
-15. Scroll web pages
-16. Mouse actions : Mouse Hover
-17. Mouse actions : Mouse Double Click
-18. Mouse actions : Mouse Right Click
-19. Mouse actions : Mouse DRag and Drop
-20. Upload a file
-21. Download a file in chrome browser
-22. Download a file in Firefox browser
-23. Reading Data from MS-Excel using OpenPyXL 
-24. Write data into Excel file
-25. Handling Cookies
-26. Take Screen shots
-27. Logging & Log Levels
 
-	#  Logging is a very useful tool in a programmer's toolbox. It can help you develop a better understanding
-	# of the flow of a program and discover scenarios that you might not even have thought of while developing.
+Package: Basic Tests::
+R1. Multi browser
+R2. Headless Browser
+R3. WebDriverCommands
+R4. GetComands
+R5. CloseAndQuitCommands
+R6. NavigationCommands
+R7. ConditionalCommands
+S11_Locators
+S12_InputBoxes
+S13_RadioButtonCheckBox
+S15_Dropdown
+S16_Image
+S19_Alerts
+S26_ScrollWebPage
+S45_HandlingCookies
 
-	# Log Levels (increasing order)
-	# -DEBUG
-	# -INFO
-	# -WARNING
-	# -ERROR
-	# -CRITICAL 
-28. 
+Package: R8to10_WaitCommands::
+R8. ImplicitWaitCommand
+R9. ExplicitWaitCommand
+S10. FluentWaitCommand
+
+Package: S14_JavaScriptExecutor::
+C1_DisplayAlert
+C2_TypingInTextBox
+C3_RadioButton
+C4_CheckBox
+C5_AutoSuggestionDropdown
+C6_CalendarDatePicker
+C7_ScrollOnScreen
+C8_ScrollToElement
+C9_HighlightElement
+D10_JavaScriptExampleFromUtility
+S14_JavaScriptExample
+
+Package: S17n18_Links::
+S17_Links
+S18_BrokenLinks
+
+Package: S20_FramesAndiFrames::
+S20_FramesAndiFrames
+
+Package: S21n22_WindowsHandling::
+S21_BrowserwindowsHandle
+S22_AuthenticationWindow
+
+Package: S23n25_WebTable::
+S23_WebTable
+S25_DynamicWebTable
+
+Package: S24_DatePicker::
+A1_DatePicker
+A2_DatePicker
+S24_Calendar
+
+Package: S27to34_MouseKeyboardActions::
+S27_MouseHover
+S28_MouseRightClick
+S29_MouseDragAndDrop
+S30_MouseSlider
+S31_MouseResizable
+S32_MouseDoubleClick
+S33_MouseKeys
+S34_KeybordEventsDemo
+
+Package: S35to38_UploadDownloadFile::
+S35_UploadFile
+S36_DownloadFilesInChrome
+S37_DownloadFilesInFirefox
+S38_DownloadZipFileInFirefox
+
+Package: S39_RobotAPIDownloadfile::
+S39_RobotAPIDemoKeyboardUseDownloadfile
+
+Package: S40_FileUploadUsingAutoIT::
+S40_FileUploadUsingAutoIT
+
+Package: S41to43_FileUploadDownloadUsingSIKULI::
+S41_FileUploadUsingSikuli
+S42_DownloadFileUsingSikuliFirefox
+S43_DownloadFileUsingSikuliChrome
+
+Package: S44_DataDrivenTest::
+C1_ReadingDataFromExcel
+C2_ReadExcelAssignment
+C3_RegistrationDDT
+C4_CalculationDDT
+C5_WritingDataIntoExcel
+C6_ReadExcelusingIterator
+
+Package: S46n47_TakingScreenshot::
+S46_TakingScreenshot
+S47_TakingScreenshotFromUtility
+
+Package: S48n49_EncodingDecoding::
+S48_EncodingAndDecodingStrings
+S49_EncodingDecodingTestCase
+
+Package: S50_AShotAPI::
+A1_CaptureLogoImage
+A2_CompareImages
+
+Package: S51_ZxingAPIBarcodeQRCode::
+A1_ReadTextFromBarCode
+A2_ReadingQRCode
+
+Package: S52_DatabaseTesting::
+S52_DatabaseTesting
+
+Package: S53n54_HashMapTests::
+S53_HashMapLoginTest
+S54_HashMapLoginTestForLoop
+
+Package: S55_TestNG::
+A1_TestNGIntro
+A2_TestNGXMLExample
+A3_TC1TestNGAnnotations
+A3_TC2TestNGAnnotations
+A4_TC1TestNGPrioritizingDisabling
+A5_TC1TestNGDependencyAlwaysRun
+A6_TC1TestNGGrouping
+A7_TC1TestNGAssertion
+A8_TC1TestNGParameters
+A9_TC1TestNGDataProvider
+A9_TC2TestNGCustomDataProvider
+B10_TC1TestNGParallelTest
+B10_TC2TestNGParallelTest
+B11_TC1TestNGListeners
+B11_TC2TestNGCustomListeners
+
+Package: S56_ExtentReports::
+ExtentReportTest
+
+Package: S57_MonteScreenRecorderAPI::
+ScreenRecorderUtil
+ScreenRecordTestCase
+
+Package: S58_StaleElementException::
+StaleElementReferenceExceptionDemo1
+StaleElementReferenceExceptionDemo2
+
+Package: S59_XPathFunctionAndAxes::
+XpathAxesMethods
+XpathFunctions
+
+Package: S60_GoogleSearch::
+GoogleSearchTest
+
+Package: S61_PageObjectModelType1
+
+Package: S62_PageObjectModelType2
+
+Package: S63_Log4j::
+Log4jPropertiesFileExample
+Log4jXMLExample
+
+Project: AllureReport0
+
+Project: AllureReport1
+
+Project: AllureReport2
+
+Project: Log4jdemo
+
+Project: TestGit1
+
+Project: WebDriverManagerDemo
+
+Project: Selenium4::
+Selenium4Features1:
+	 * 1) Capture Screenshot of WebElement
+	 * 2) Open the New Tab on Browser
+	 * 3) Open the New Window on Browser
+	 * 4) Object Location
+Selenium4Features2RelativeLocators
+Selenium4Features3Screenshots
+Selenium4Features4ChromeDevTools
+
+Project: HybInetBankingV1 (Hybrid Framework)
+
+
 
 
 
