@@ -22,7 +22,7 @@ public class R1_LoginTest {
 //		System.setProperty("webdriver.ie.driver", "D:\\Day Shift\\Selenium_Prequisites\\WebDrivers\\IEDriverServer.exe");
 		
 		// Microsoft Edge
-//		System.setProperty("webdriver.edge.driver", "D:\\Day Shift\\Selenium_Prequisites\\WebDrivers\\MicrosoftWebDriver.exe");	
+//		System.setProperty("webdriver.edge.driver", "D:\\Day Shift\\Selenium_Prequisites\\WebDrivers\\msedgedriver.exe");	
 		
 		
 		
